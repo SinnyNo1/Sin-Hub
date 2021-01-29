@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sinnyno1.github.io/Sin%20Hub/HubScript.lua"))();
